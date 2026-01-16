@@ -4,7 +4,7 @@
 
 <p align="left">Hi 👋, I'm Akram Zayane
 
-I'm a Software Engineer specialized in web development.
+A Software Engineer specialized in web development.
 I build modern, scalable web applications with a strong focus on clean architecture, performance, and user experience.</p>
 
 <h2 align="left">I code with</h2>
