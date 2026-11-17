@@ -113,13 +113,6 @@ I'm a software engineer from Sousse, Tunisia, who likes owning a feature from th
   </tr>
 </table>
 
-## 📊 GitHub activity
-
-<p align="center">
-  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Akramzayan&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akramzayan&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
 ## 📜 Certifications
 
 - Microsoft Azure AI Fundamentals (2023)
